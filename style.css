@@ -1,0 +1,52 @@
+```css
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    text-align: center;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 30px;
+}
+
+main {
+    padding: 40px;
+}
+
+.card {
+    background: white;
+    max-width: 500px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background: #333;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #555;
+}
+
+#message {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 50px;
+    padding: 20px;
+    background: #333;
+    color: white;
+}
+```
